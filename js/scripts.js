@@ -1,5 +1,5 @@
 (function($){
-    var fkey, topLoader, startstopTimer, startstopCurrent = 0;;
+    var fkey, topLoader, startstopTimer, startstopCurrent = 0;
     var fkeys=[];
     
     // Padding function
